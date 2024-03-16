@@ -28,6 +28,7 @@
 		024B23FD2BA5B9A100640776 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		024B24032BA5BB7B00640776 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
 		024B24052BA5BDAA00640776 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
+		024B24072BA5CA6500640776 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		024B23E32BA5B99F00640776 = {
 			isa = PBXGroup;
 			children = (
+				024B24072BA5CA6500640776 /* README.md */,
 				024B23EE2BA5B99F00640776 /* WeatherChallenge */,
 				024B23ED2BA5B99F00640776 /* Products */,
 			);
