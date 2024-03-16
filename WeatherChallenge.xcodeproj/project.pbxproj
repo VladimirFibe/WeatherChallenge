@@ -13,6 +13,8 @@
 		024B23F72BA5B99F00640776 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 024B23F62BA5B99F00640776 /* Base */; };
 		024B23F92BA5B9A100640776 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 024B23F82BA5B9A100640776 /* Assets.xcassets */; };
 		024B23FC2BA5B9A100640776 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 024B23FB2BA5B9A100640776 /* Base */; };
+		024B24042BA5BB7B00640776 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024B24032BA5BB7B00640776 /* API.swift */; };
+		024B24062BA5BDAA00640776 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024B24052BA5BDAA00640776 /* Weather.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		024B23F82BA5B9A100640776 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		024B23FB2BA5B9A100640776 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		024B23FD2BA5B9A100640776 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		024B24032BA5BB7B00640776 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		024B24052BA5BDAA00640776 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				024B23EF2BA5B99F00640776 /* AppDelegate.swift */,
 				024B23F12BA5B99F00640776 /* SceneDelegate.swift */,
 				024B23F32BA5B99F00640776 /* ViewController.swift */,
+				024B24032BA5BB7B00640776 /* API.swift */,
+				024B24052BA5BDAA00640776 /* Weather.swift */,
 				024B23F52BA5B99F00640776 /* Main.storyboard */,
 				024B23F82BA5B9A100640776 /* Assets.xcassets */,
 				024B23FA2BA5B9A100640776 /* LaunchScreen.storyboard */,
@@ -140,7 +146,9 @@
 			files = (
 				024B23F42BA5B99F00640776 /* ViewController.swift in Sources */,
 				024B23F02BA5B99F00640776 /* AppDelegate.swift in Sources */,
+				024B24042BA5BB7B00640776 /* API.swift in Sources */,
 				024B23F22BA5B99F00640776 /* SceneDelegate.swift in Sources */,
+				024B24062BA5BDAA00640776 /* Weather.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
